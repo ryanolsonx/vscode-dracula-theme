@@ -1,12 +1,12 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Dracula Pro",
-  "semanticClass": "theme.dracula-pro",
+  "name": "Dracula Van Helsing",
+  "semanticClass": "theme.dracula-van-helsing",
   "semanticHighlighting": true,
   "colors": {
-    "terminal.background": "#22212c",
+    "terminal.background": "#0b0d0f",
     "terminal.foreground": "#fdfdf8",
-    "terminal.ansiBrightBlack": "#7d73ae",
+    "terminal.ansiBrightBlack": "#728fac",
     "terminal.ansiBrightRed": "#FF6E6E",
     "terminal.ansiBrightGreen": "#8dff82",
     "terminal.ansiBrightYellow": "#ffff82",
@@ -73,8 +73,8 @@
     "tab.inactiveBackground": "#21222C",
     "tab.inactiveForeground": "#6272A4",
     "editor.foreground": "#fdfdf8",
-    "editor.background": "#22212c",
-    "editorLineNumber.foreground": "#7d73ae",
+    "editor.background": "#0b0d0f",
+    "editorLineNumber.foreground": "#728fac",
     "editor.selectionBackground": "#44475A",
     "editor.selectionHighlightBackground": "#424450",
     "editor.foldBackground": "#21222C80",
@@ -437,7 +437,7 @@
         "wildcard.comment"
       ],
       "settings": {
-        "foreground": "#7d73ae"
+        "foreground": "#728fac"
       }
     },
     {
@@ -870,7 +870,7 @@
         "string.quoted.docstring.multi.python constant.character.escape"
       ],
       "settings": {
-        "foreground": "#7d73ae"
+        "foreground": "#728fac"
       }
     },
     {
@@ -995,7 +995,7 @@
       "name": "Haskell Pragmas",
       "scope": ["meta.preprocessor.haskell"],
       "settings": {
-        "foreground": "#7d73ae"
+        "foreground": "#728fac"
       }
     },
     {
