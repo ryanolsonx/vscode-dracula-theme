@@ -1,0 +1,28 @@
+{
+  "name": "yet-another-dracula",
+  "version": "2.1.0",
+  "displayName": "Yet Another Dracula",
+  "description": "Yet another dracula theme",
+  "publisher": "ryanolsonx",
+  "repository": "https://github.com/ryanolsonx/vscode-dracula-theme",
+  "license": "MIT",
+  "keywords": [
+    "dracula",
+    "dark"
+  ],
+  "engines": {
+    "vscode": "^1.20.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dracula P",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dracula-p.json"
+      }
+    ]
+  }
+}
