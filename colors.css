@@ -1,0 +1,37 @@
+.bg {
+  color: #22212c;
+}
+
+.fg {
+  color: #fdfdf8;
+}
+
+.orange {
+  background-color: #ffb86c;
+  color: #ffca80;
+}
+
+.yellow {
+  background-color: #f1fa8c;
+  color: #ffff82;
+}
+
+.cyan {
+  background-color: #8be9fd;
+  color: #85fff4;
+}
+
+.green {
+  background-color: #50fa7b;
+  color: #8dff82;
+}
+
+.purple {
+  background-color: #bd93f9;
+  color: #9580ff;
+}
+
+.pink {
+  background-color: #ff79c6;
+  color: #ff81c1;
+}
