@@ -19,9 +19,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dracula P",
+        "label": "Dracula Pro",
         "uiTheme": "vs-dark",
-        "path": "./themes/dracula-p.json"
+        "path": "./themes/dracula-pro.json"
       }
     ]
   }
